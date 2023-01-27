@@ -1,7 +1,7 @@
 ---
 kip: 53
 title: Integrate Socket Plugin
-status: Approved
+status: Implemented
 author: Synthquest
 created: 2023-01-06
 ---
